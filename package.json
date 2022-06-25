@@ -14,7 +14,7 @@
     "dom-parser": "^0.1.6",
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemailer": "^6.4.10",
     "xmldom": "^0.3.0"
   }
